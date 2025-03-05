@@ -101,9 +101,5 @@ To run this project on your local machine, follow these steps:
 
 - **Your Name** – [https://github.com/Monse2604]
 
----
 
-## 📜 **License**
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
