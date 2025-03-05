@@ -1,4 +1,4 @@
-📌 Credit Risk Analysis Report
+# **📌 Credit Risk Analysis Report**
 
 🔍 Overview
 
@@ -6,17 +6,17 @@ This project analyzes credit risk using Logistic Regression, a machine learning 
 
 - Loan size
 
-Interest rate
+- Interest rate
 
-Borrower income
+- Borrower income
 
-Debt-to-income ratio
+- Debt-to-income ratio
 
-Number of accounts
+- Number of accounts
 
-Derogatory marks
+- Derogatory marks
 
-Total debt
+- Total debt
 
 The objective is to evaluate the model’s performance in classifying credit risk effectively.
 
