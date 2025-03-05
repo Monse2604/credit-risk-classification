@@ -4,7 +4,7 @@
 
 This project analyzes credit risk using Logistic Regression, a machine learning model that predicts whether a loan is healthy (0) or high-risk (1). The dataset contains financial variables such as:
 
-Loan size
+#Loan size
 
 Interest rate
 
