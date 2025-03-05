@@ -80,7 +80,7 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/credit-risk-analysis.git
+  [ git clone https://github.com/yourusername/credit-risk-analysis.git](https://github.com/Monse2604/credit-risk-classification.git)
    ```
 2. **Navigate to the project directory:**
    ```bash
@@ -99,7 +99,7 @@ To run this project on your local machine, follow these steps:
 
 ## 📌 **Contributors**
 
-- **Your Name** – [GitHub Profile](https://github.com/Monse2604)
+- **Your Name** – [https://github.com/Monse2604]
 
 ---
 
